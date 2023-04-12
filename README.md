@@ -16,3 +16,5 @@ To use the implemented algorithms for multi-armed bandit problem, create an inst
 Both classes provide plotting and report methods to visualize the learning process and to generate a summary report of the experiment. Additionally, the output of the experiments are saved in csv files for future reference.
 
 This repository is intended to serve as a starting point for anyone interested in implementing and experimenting with multi-armed bandit algorithms.
+
+Note: Logging is not implemented in the code yet.
