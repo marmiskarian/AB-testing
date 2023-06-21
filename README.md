@@ -1,4 +1,5 @@
 # Epsilon Greedy and Thompson Sampling Implementations
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains Python implementations of two popular multi-armed bandit algorithms - **Epsilon Greedy** and **Thompson Sampling**. These algorithms are commonly used in online advertising, recommendation systems, and other areas where one needs to optimize decision-making under uncertainty.
 
